@@ -1,11 +1,13 @@
-
+## Prova D3SET
 ### Estrutura do projeto
+
 O projeto esta separado em duas pastas, Backend e front.
 Na pasta backend esta localizado todos os arquivos referentes a API.
 Na pasta front esta localizado todos os arquivos referentes ao front-end.
 ---
 
 ### Observações
+
 Para iniciar o projeto é necessário acessar os diretório de Backend, front e instalar as dependências.
 Podendo ser usado:
 ```
@@ -17,6 +19,7 @@ yarn install
 ---
 
 ### Backend
+
 Após instalar todas as dependências, para iniciar o backend rodar o comando:
 
 ```
